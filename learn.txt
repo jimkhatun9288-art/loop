@@ -1,0 +1,2 @@
+And the push will use your test account login that's already saved — it won't ask you for anything.
+One small note: your git-journey commit (f9352a6) is still waiting to be pushed with your jim-khatun account — don't forget that one when you get back to it.
